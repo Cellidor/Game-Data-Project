@@ -75,8 +75,15 @@ public class Tank : MonoBehaviour {
         // rotate toward new forward
         transform.eulerAngles = new Vector3(0, 0, Mathf.Atan2(forward.y, forward.x) * Mathf.Rad2Deg);
 
-        // move forward
-        transform.Translate(forward * speed * Time.deltaTime, Space.World);
+        // *New* move forward or back if right mouse is held.
+        if (Input.GetMouseButton(1))
+        {
+            transform.Translate(forward * speed * Time.deltaTime*-1, Space.World);
+        }
+        else
+        {
+            transform.Translate(forward * speed * Time.deltaTime, Space.World);
+        }
 
 
         // once the tank has moved, we push the crosshair out from the tank

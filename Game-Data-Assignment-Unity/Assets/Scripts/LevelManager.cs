@@ -10,73 +10,82 @@ public class LevelManager : MonoBehaviour {
 
     public Transform groundHolder;
     public Transform turretHolder;
+    // *New*
+    public Transform wallHolder;
 
-    //enum is used to more specifically define given values used further down. This way, when referencing "MapDataFormat", it's 
-    //easier to understand what "Base64" and "CSV" means than using a variable you set to an int of "0" or "1".
+    // enum is used to more specifically define given values used further down. This way, when referencing "MapDataFormat", it's 
+    // easier to understand what "Base64" and "CSV" means than using a variable you set to an int of "0" or "1".
     public enum MapDataFormat {
         Base64,
         CSV
     }
-    //Reference variable has been set for MapDataFormat.
+    // Reference variable has been set for MapDataFormat.
     public MapDataFormat mapDataFormat;
-    //a Sprite Sheet will be neededto represent the map we wish to load.
+    // a Sprite Sheet will be neededto represent the map we wish to load.
     public Texture2D spriteSheetTexture;
 
-    //A given tile to be placed.
+    // A given tile to be placed.
     public GameObject tilePrefab;
-    //A given turret to be placed.
+    // A given turret to be placed.
     public GameObject turretPrefab;
-    //A list made for all map sprites used for a given map.
+    // *New* a given wall to be placed.
+    public GameObject wallPrefab;
+    // A list made for all map sprites used for a given map.
     public List<Sprite> mapSprites;
-    //A list of all "tile" game objects used in the scene.
+    // A list of all "tile" game objects used in the scene.
     public List<GameObject> tiles;
-    //Each placed turret will nee a vector3 reference for their location.
+    // Each placed turret will nee a vector3 reference for their location.
     public List<Vector3> turretPositions;
 
-    //Offset used to change center of the tile.
+    // *New* list of Vector3 positions for new "wall" object
+    public List<Vector3> wallPositions;
+    // *New* list of Vector2 "positions" containing each wall's width (x) and height (y)
+    public List<Vector2> wallSizes;
+
+    // Offset used to change center of the tile.
     Vector3 tileCenterOffset;
-    //Offset used to change the center of the map itself.
+    // Offset used to change the center of the map itself.
     Vector3 mapCenterOffset;
 
-    //the name of a needed TMX File a user can input.
+    // the name of a needed TMX File a user can input.
     public string TMXFilename;
 
-    //The location of the game.
+    // The location of the game.
     string gameDirectory;
-    //The location of the game's data.
+    // The location of the game's data.
     string dataDirectory;
-    //The location of the game's map.
+    // The location of the game's map.
     string mapsDirectory;
-    //The location of the sprite sheet used for the game.
+    // The location of the sprite sheet used for the game.
     string spriteSheetFile;
-    //The name of the TMX file.
+    // The name of the TMX file.
     string TMXFile;
 
-    //How many pixels each unit takes up.
+    // How many pixels each unit takes up.
     public int pixelsPerUnit = 32;
 
-    //The width of a given tile in pixels.
+    // The width of a given tile in pixels.
     public int tileWidthInPixels;
-    //The height of a given tile in pixels.
+    // The height of a given tile in pixels.
     public int tileHeightInPixels;
-    //The width of a given tile.
+    // The width of a given tile.
     float tileWidth;
-    //The height of a given tile.
+    // The height of a given tile.
     float tileHeight;
 
-    //How many colums the sprite sheet has.
+    // How many colums the sprite sheet has.
     public int spriteSheetColumns;
-    //How many rows the sprite sheet has.
+    // How many rows the sprite sheet has.
     public int spriteSheetRows;
 
-    //How many columns the map contains.
+    // How many columns the map contains.
     public int mapColumns;
-    //How many rows the map contains.
+    // How many rows the map contains.
     public int mapRows;
 
-    //The name of the map data in the ofrm of a string.
+    // The name of the map data in the ofrm of a string.
     public string mapDataString;
-    //the data fo a given map laid out in a list of int values.
+    // the data fo a given map laid out in a list of int values.
     public List<int> mapData;
 
 
@@ -112,10 +121,11 @@ public class LevelManager : MonoBehaviour {
 
     public void LoadLevel() {
 
-        // Clear both editor console and all children in "ground" and "turret" holder parents.
+        // *New* Clear both editor console and all children in "ground", "turret" and "wall" holder parents.
         ClearEditorConsole();
         DestroyChildren(groundHolder);
         DestroyChildren(turretHolder);
+        DestroyChildren(wallHolder);
 
         // Thanks to the script below, rather than having to find the exact location of the TMX file by hand
         // each time it needs to be used, the script below will instead automatically go into the game's data folder
@@ -182,8 +192,10 @@ public class LevelManager : MonoBehaviour {
                 // trims away any leading and trailing whitespace from our "reader" string value.
                 mapDataString = reader.ReadElementContentAsString().Trim();
 
-                //Reset all turrent positions currently in place.
+                // *New* Reset all turrent/wall positions and wall sizes currently in place.
                 turretPositions.Clear();
+                wallPositions.Clear();
+                wallSizes.Clear();
 
                 // If the reader contains an "objectgroup" setting, then, so long as there are objects to read,
                 // set their x and y turrent positions based on the attribute as found in the XML file.
@@ -193,6 +205,24 @@ public class LevelManager : MonoBehaviour {
                             float x = Convert.ToSingle(reader.GetAttribute("x")) / (float)pixelsPerUnit;
                             float y = Convert.ToSingle(reader.GetAttribute("y")) / (float)pixelsPerUnit;
                             turretPositions.Add(new Vector3(x, -y, 0));
+
+                        } while (reader.ReadToNextSibling("object"));
+                    }
+                }
+
+                // *New* The same as above, taking care of the next object group "Walls", obtaining both each wall's position as well as its size.
+                if (reader.ReadToFollowing("objectgroup"))
+                {
+                    if (reader.ReadToDescendant("object"))
+                    {
+                        do
+                        {
+                            float x = Convert.ToSingle(reader.GetAttribute("x")) / (float)pixelsPerUnit;
+                            float y = Convert.ToSingle(reader.GetAttribute("y")) / (float)pixelsPerUnit;
+                            wallPositions.Add(new Vector3(x, -y, 0));
+                            float x2 = Convert.ToSingle(reader.GetAttribute("width")) / (float)pixelsPerUnit;
+                            float y2 = Convert.ToSingle(reader.GetAttribute("height")) / (float)pixelsPerUnit;
+                            wallSizes.Add(new Vector2(x2, y2));
 
                         } while (reader.ReadToNextSibling("object"));
                     }
@@ -304,6 +334,19 @@ public class LevelManager : MonoBehaviour {
                 turret.name = "Turret";
                 turret.transform.parent = turretHolder;
             }
+        }
+
+        // *New* For each given wall position in our wallPositions list, instantiate a wall at that location, name
+        // the game object "wall" and adjust the size of its collider to match the size set in Tiled, making it a child of the
+        // "wallHolder" game object
+        for (int i = 0; i < wallPositions.Count; i++)
+        {
+                GameObject wall = Instantiate(wallPrefab, wallPositions[i] + mapCenterOffset, Quaternion.identity) as GameObject;
+                wall.transform.position = new Vector3(wall.transform.position.x + (wallSizes[i].x/2) ,wall.transform.position.y - (wallSizes[i].y / 2), 0);
+                BoxCollider2D boxCol = wall.GetComponent<BoxCollider2D>() as BoxCollider2D;
+                boxCol.size = new Vector2(wallSizes[i].x,wallSizes[i].y);
+                wall.name = "Wall";
+                wall.transform.parent = wallHolder;
         }
 
         // Obtain the current time, then print it into the console to determine at what time the level was loaded.
