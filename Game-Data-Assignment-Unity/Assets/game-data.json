@@ -1,0 +1,13 @@
+{"prefabName":"Tank","position":{"x":1.5117725133895875,"y":2.596083879470825,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":181.18890380859376},"destination":{"x":-0.8593747615814209,"y":2.546875238418579,"z":0.0}}
+{"prefabName":"Turret","position":{"x":-7.5,"y":-4.96875,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":-1.59375,"y":-1.0,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":-7.53125,"y":0.0625,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":-7.5,"y":5.0625,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":-2.53125,"y":5.0625,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":2.5,"y":5.0,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":7.53125,"y":5.0625,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Turret","position":{"x":4.46875,"y":-1.03125,"z":0.0},"eulerAngles":{"x":0.0,"y":0.0,"z":0.0}}
+{"prefabName":"Collectable","lerpTime":0.786573588848114,"invertMove":false,"collected":false,"animationTime":6.583396911621094,"position":{"x":-2.5510001182556154,"y":1.6986985206604005,"z":0.0}}
+{"prefabName":"Collectable","lerpTime":0.3517408072948456,"invertMove":true,"collected":true,"animationTime":0.0,"position":{"x":0.17000000178813935,"y":3.103691816329956,"z":0.0}}
+{"prefabName":"Collectable","lerpTime":0.5202330350875855,"invertMove":false,"collected":true,"animationTime":0.0,"position":{"x":5.309999942779541,"y":2.3106768131256105,"z":0.0}}
+{"prefabName":"Collectable","lerpTime":0.786573588848114,"invertMove":false,"collected":false,"animationTime":6.583396911621094,"position":{"x":-4.420000076293945,"y":-2.068301200866699,"z":0.0}}

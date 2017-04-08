@@ -25,11 +25,12 @@ GameObject:
   m_Component:
   - 4: {fileID: 435728}
   - 114: {fileID: 11466736}
-  - 50: {fileID: 50000010405115102}
-  - 61: {fileID: 61000013834645100}
+  - 114: {fileID: 11467986}
+  - 50: {fileID: 50000012915640210}
+  - 61: {fileID: 61000013031682936}
   m_Layer: 0
   m_Name: Tank
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -105,15 +106,33 @@ MonoBehaviour:
   crosshair: {fileID: 0}
   barrel: {fileID: 445880}
   trackPrefab: {fileID: 172224, guid: f56b690b9ab7d4d4ead8f11008488c52, type: 2}
-  tracksParent: {fileID: 0}
+  tracksHolder: {fileID: 0}
   distanceBetweenTracks: 0.1
-  shellPrefab: {fileID: 0}
+  shellPrefab: {fileID: 129688, guid: 71e4c900be3cd42438b09f11a7b2f795, type: 2}
   mouseScreenCoordinates: {x: 683, y: 384}
   mouseViewPortCoordinates: {x: 1, y: 1}
   mouseWorldCoordinates: {x: 8.8932295, y: 5, z: 0}
   speed: 1.5
   maxFiringDistance: 5
   maxTurnDelta: 120
+  destination: {x: 0, y: 0, z: 0}
+--- !u!114 &11467986
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 137010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9b623f3bcdff4849ae123a20bb6e72d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabName: Tank
+  data:
+    prefabName: 
+    position: {x: 0, y: 0, z: 0}
+    eulerAngles: {x: 0, y: 0, z: 0}
+    destination: {x: 0, y: 0, z: 0}
 --- !u!212 &21218474
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -191,7 +210,7 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 137010}
   m_IsPrefabParent: 1
---- !u!50 &50000010405115102
+--- !u!50 &50000012915640210
 Rigidbody2D:
   serializedVersion: 2
   m_ObjectHideFlags: 1
@@ -208,7 +227,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!61 &61000013834645100
+--- !u!61 &61000013031682936
 BoxCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -221,4 +240,4 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Size: {x: 0.72, y: 0.73}
+  m_Size: {x: 1, y: 1}

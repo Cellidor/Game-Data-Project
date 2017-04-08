@@ -5,7 +5,7 @@ public class Tank : MonoBehaviour {
     public GameObject crosshair;
     public Transform barrel;
     public GameObject trackPrefab;
-    public Transform tracksParent;
+    public Transform tracksHolder;
     public float distanceBetweenTracks;
 
     public GameObject shellPrefab;
@@ -20,7 +20,7 @@ public class Tank : MonoBehaviour {
 
     public float maxTurnDelta;
 
-    Vector3 destination;
+    public Vector3 destination;
     Vector3 forward;
     float destinationAngle;
     Vector3 destinationDirection;
@@ -29,6 +29,13 @@ public class Tank : MonoBehaviour {
     float mouseAngle;
 
     Vector3 previousTrackPosition;
+
+
+
+    void Awake() {
+        crosshair = GameObject.Find("Crosshair");
+        tracksHolder = GameObject.Find("Tracks").transform;
+    }
 
     void Start() {
         // set the initial previous track position as the initial position
@@ -75,10 +82,10 @@ public class Tank : MonoBehaviour {
         // rotate toward new forward
         transform.eulerAngles = new Vector3(0, 0, Mathf.Atan2(forward.y, forward.x) * Mathf.Rad2Deg);
 
-        // *New* move forward or back if right mouse is held.
+        // move forward
         if (Input.GetMouseButton(1))
         {
-            transform.Translate(forward * speed * Time.deltaTime*-1, Space.World);
+            transform.Translate(forward * speed * Time.deltaTime * -1, Space.World);
         }
         else
         {
@@ -101,7 +108,7 @@ public class Tank : MonoBehaviour {
         mouseAngle = Mathf.Atan2(mouseDirection.y, mouseDirection.x) * Mathf.Rad2Deg;
         // rotate the barrel according the relative angle to the mouse position
         barrel.eulerAngles = new Vector3(0, 0, mouseAngle);
-        
+
         MakeTracks();
     }
 
@@ -111,7 +118,7 @@ public class Tank : MonoBehaviour {
             // create a new track
             GameObject track = Instantiate(trackPrefab, transform.position, transform.rotation) as GameObject;
             // make the new track object a child of the tracks parent
-            track.transform.SetParent(tracksParent);
+            track.transform.SetParent(tracksHolder);
             // update the value of the previous track position
             previousTrackPosition = transform.position;
         }

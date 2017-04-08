@@ -1,0 +1,5379 @@
+fileFormatVersion: 2
+guid: 2707976b7985e9146a931a07bde9f931
+timeCreated: 1491607089
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wea-bobs1_0
+    21300002: wea-bobs1_1
+    21300004: wea-bobs1_2
+    21300006: wea-bobs1_3
+    21300008: wea-bobs1_4
+    21300010: wea-bobs1_5
+    21300012: wea-bobs1_6
+    21300014: wea-bobs1_7
+    21300016: wea-bobs1_8
+    21300018: wea-bobs1_9
+    21300020: wea-bobs1_10
+    21300022: wea-bobs1_11
+    21300024: wea-bobs1_12
+    21300026: wea-bobs1_13
+    21300028: wea-bobs1_14
+    21300030: wea-bobs1_15
+    21300032: wea-bobs1_16
+    21300034: wea-bobs1_17
+    21300036: wea-bobs1_18
+    21300038: wea-bobs1_19
+    21300040: wea-bobs1_20
+    21300042: wea-bobs1_21
+    21300044: wea-bobs1_22
+    21300046: wea-bobs1_23
+    21300048: wea-bobs1_24
+    21300050: wea-bobs1_25
+    21300052: wea-bobs1_26
+    21300054: wea-bobs1_27
+    21300056: wea-bobs1_28
+    21300058: wea-bobs1_29
+    21300060: wea-bobs1_30
+    21300062: wea-bobs1_31
+    21300064: wea-bobs1_32
+    21300066: wea-bobs1_33
+    21300068: wea-bobs1_34
+    21300070: wea-bobs1_35
+    21300072: wea-bobs1_36
+    21300074: wea-bobs1_37
+    21300076: wea-bobs1_38
+    21300078: wea-bobs1_39
+    21300080: wea-bobs1_40
+    21300082: wea-bobs1_41
+    21300084: wea-bobs1_42
+    21300086: wea-bobs1_43
+    21300088: wea-bobs1_44
+    21300090: wea-bobs1_45
+    21300092: wea-bobs1_46
+    21300094: wea-bobs1_47
+    21300096: wea-bobs1_48
+    21300098: wea-bobs1_49
+    21300100: wea-bobs1_50
+    21300102: wea-bobs1_51
+    21300104: wea-bobs1_52
+    21300106: wea-bobs1_53
+    21300108: wea-bobs1_54
+    21300110: wea-bobs1_55
+    21300112: wea-bobs1_56
+    21300114: wea-bobs1_57
+    21300116: wea-bobs1_58
+    21300118: wea-bobs1_59
+    21300120: wea-bobs1_60
+    21300122: wea-bobs1_61
+    21300124: wea-bobs1_62
+    21300126: wea-bobs1_63
+    21300128: wea-bobs1_64
+    21300130: wea-bobs1_65
+    21300132: wea-bobs1_66
+    21300134: wea-bobs1_67
+    21300136: wea-bobs1_68
+    21300138: wea-bobs1_69
+    21300140: wea-bobs1_70
+    21300142: wea-bobs1_71
+    21300144: wea-bobs1_72
+    21300146: wea-bobs1_73
+    21300148: wea-bobs1_74
+    21300150: wea-bobs1_75
+    21300152: wea-bobs1_76
+    21300154: wea-bobs1_77
+    21300156: wea-bobs1_78
+    21300158: wea-bobs1_79
+    21300160: wea-bobs1_80
+    21300162: wea-bobs1_81
+    21300164: wea-bobs1_82
+    21300166: wea-bobs1_83
+    21300168: wea-bobs1_84
+    21300170: wea-bobs1_85
+    21300172: wea-bobs1_86
+    21300174: wea-bobs1_87
+    21300176: wea-bobs1_88
+    21300178: wea-bobs1_89
+    21300180: wea-bobs1_90
+    21300182: wea-bobs1_91
+    21300184: wea-bobs1_92
+    21300186: wea-bobs1_93
+    21300188: wea-bobs1_94
+    21300190: wea-bobs1_95
+    21300192: wea-bobs1_96
+    21300194: wea-bobs1_97
+    21300196: wea-bobs1_98
+    21300198: wea-bobs1_99
+    21300200: wea-bobs1_100
+    21300202: wea-bobs1_101
+    21300204: wea-bobs1_102
+    21300206: wea-bobs1_103
+    21300208: wea-bobs1_104
+    21300210: wea-bobs1_105
+    21300212: wea-bobs1_106
+    21300214: wea-bobs1_107
+    21300216: wea-bobs1_108
+    21300218: wea-bobs1_109
+    21300220: wea-bobs1_110
+    21300222: wea-bobs1_111
+    21300224: wea-bobs1_112
+    21300226: wea-bobs1_113
+    21300228: wea-bobs1_114
+    21300230: wea-bobs1_115
+    21300232: wea-bobs1_116
+    21300234: wea-bobs1_117
+    21300236: wea-bobs1_118
+    21300238: wea-bobs1_119
+    21300240: wea-bobs1_120
+    21300242: wea-bobs1_121
+    21300244: wea-bobs1_122
+    21300246: wea-bobs1_123
+    21300248: wea-bobs1_124
+    21300250: wea-bobs1_125
+    21300252: wea-bobs1_126
+    21300254: wea-bobs1_127
+    21300256: wea-bobs1_128
+    21300258: wea-bobs1_129
+    21300260: wea-bobs1_130
+    21300262: wea-bobs1_131
+    21300264: wea-bobs1_132
+    21300266: wea-bobs1_133
+    21300268: wea-bobs1_134
+    21300270: wea-bobs1_135
+    21300272: wea-bobs1_136
+    21300274: wea-bobs1_137
+    21300276: wea-bobs1_138
+    21300278: wea-bobs1_139
+    21300280: wea-bobs1_140
+    21300282: wea-bobs1_141
+    21300284: wea-bobs1_142
+    21300286: wea-bobs1_143
+    21300288: wea-bobs1_144
+    21300290: wea-bobs1_145
+    21300292: wea-bobs1_146
+    21300294: wea-bobs1_147
+    21300296: wea-bobs1_148
+    21300298: wea-bobs1_149
+    21300300: wea-bobs1_150
+    21300302: wea-bobs1_151
+    21300304: wea-bobs1_152
+    21300306: wea-bobs1_153
+    21300308: wea-bobs1_154
+    21300310: wea-bobs1_155
+    21300312: wea-bobs1_156
+    21300314: wea-bobs1_157
+    21300316: wea-bobs1_158
+    21300318: wea-bobs1_159
+    21300320: wea-bobs1_160
+    21300322: wea-bobs1_161
+    21300324: wea-bobs1_162
+    21300326: wea-bobs1_163
+    21300328: wea-bobs1_164
+    21300330: wea-bobs1_165
+    21300332: wea-bobs1_166
+    21300334: wea-bobs1_167
+    21300336: wea-bobs1_168
+    21300338: wea-bobs1_169
+    21300340: wea-bobs1_170
+    21300342: wea-bobs1_171
+    21300344: wea-bobs1_172
+    21300346: wea-bobs1_173
+    21300348: wea-bobs1_174
+    21300350: wea-bobs1_175
+    21300352: wea-bobs1_176
+    21300354: wea-bobs1_177
+    21300356: wea-bobs1_178
+    21300358: wea-bobs1_179
+    21300360: wea-bobs1_180
+    21300362: wea-bobs1_181
+    21300364: wea-bobs1_182
+    21300366: wea-bobs1_183
+    21300368: wea-bobs1_184
+    21300370: wea-bobs1_185
+    21300372: wea-bobs1_186
+    21300374: wea-bobs1_187
+    21300376: wea-bobs1_188
+    21300378: wea-bobs1_189
+    21300380: wea-bobs1_190
+    21300382: wea-bobs1_191
+    21300384: wea-bobs1_192
+    21300386: wea-bobs1_193
+    21300388: wea-bobs1_194
+    21300390: wea-bobs1_195
+    21300392: wea-bobs1_196
+    21300394: wea-bobs1_197
+    21300396: wea-bobs1_198
+    21300398: wea-bobs1_199
+    21300400: wea-bobs1_200
+    21300402: wea-bobs1_201
+    21300404: wea-bobs1_202
+    21300406: wea-bobs1_203
+    21300408: wea-bobs1_204
+    21300410: wea-bobs1_205
+    21300412: wea-bobs1_206
+    21300414: wea-bobs1_207
+    21300416: wea-bobs1_208
+    21300418: wea-bobs1_209
+    21300420: wea-bobs1_210
+    21300422: wea-bobs1_211
+    21300424: wea-bobs1_212
+    21300426: wea-bobs1_213
+    21300428: wea-bobs1_214
+    21300430: wea-bobs1_215
+    21300432: wea-bobs1_216
+    21300434: wea-bobs1_217
+    21300436: wea-bobs1_218
+    21300438: wea-bobs1_219
+    21300440: wea-bobs1_220
+    21300442: wea-bobs1_221
+    21300444: wea-bobs1_222
+    21300446: wea-bobs1_223
+    21300448: wea-bobs1_224
+    21300450: wea-bobs1_225
+    21300452: wea-bobs1_226
+    21300454: wea-bobs1_227
+    21300456: wea-bobs1_228
+    21300458: wea-bobs1_229
+    21300460: wea-bobs1_230
+    21300462: wea-bobs1_231
+    21300464: wea-bobs1_232
+    21300466: wea-bobs1_233
+    21300468: wea-bobs1_234
+    21300470: wea-bobs1_235
+    21300472: wea-bobs1_236
+    21300474: wea-bobs1_237
+    21300476: wea-bobs1_238
+    21300478: wea-bobs1_239
+    21300480: wea-bobs1_240
+    21300482: wea-bobs1_241
+    21300484: wea-bobs1_242
+    21300486: wea-bobs1_243
+    21300488: wea-bobs1_244
+    21300490: wea-bobs1_245
+    21300492: wea-bobs1_246
+    21300494: wea-bobs1_247
+    21300496: wea-bobs1_248
+    21300498: wea-bobs1_249
+    21300500: wea-bobs1_250
+    21300502: wea-bobs1_251
+    21300504: wea-bobs1_252
+    21300506: wea-bobs1_253
+    21300508: wea-bobs1_254
+    21300510: wea-bobs1_255
+    21300512: wea-bobs1_256
+    21300514: wea-bobs1_257
+    21300516: wea-bobs1_258
+    21300518: wea-bobs1_259
+    21300520: wea-bobs1_260
+    21300522: wea-bobs1_261
+    21300524: wea-bobs1_262
+    21300526: wea-bobs1_263
+    21300528: wea-bobs1_264
+    21300530: wea-bobs1_265
+    21300532: wea-bobs1_266
+    21300534: wea-bobs1_267
+    21300536: wea-bobs1_268
+    21300538: wea-bobs1_269
+    21300540: wea-bobs1_270
+    21300542: wea-bobs1_271
+    21300544: wea-bobs1_272
+    21300546: wea-bobs1_273
+    21300548: wea-bobs1_274
+    21300550: wea-bobs1_275
+    21300552: wea-bobs1_276
+    21300554: wea-bobs1_277
+    21300556: wea-bobs1_278
+    21300558: wea-bobs1_279
+    21300560: wea-bobs1_280
+    21300562: wea-bobs1_281
+    21300564: wea-bobs1_282
+    21300566: wea-bobs1_283
+    21300568: wea-bobs1_284
+    21300570: wea-bobs1_285
+    21300572: wea-bobs1_286
+    21300574: wea-bobs1_287
+    21300576: wea-bobs1_288
+    21300578: wea-bobs1_289
+    21300580: wea-bobs1_290
+    21300582: wea-bobs1_291
+    21300584: wea-bobs1_292
+    21300586: wea-bobs1_293
+    21300588: wea-bobs1_294
+    21300590: wea-bobs1_295
+    21300592: wea-bobs1_296
+    21300594: wea-bobs1_297
+    21300596: wea-bobs1_298
+    21300598: wea-bobs1_299
+    21300600: wea-bobs1_300
+    21300602: wea-bobs1_301
+    21300604: wea-bobs1_302
+    21300606: wea-bobs1_303
+    21300608: wea-bobs1_304
+    21300610: wea-bobs1_305
+    21300612: wea-bobs1_306
+    21300614: wea-bobs1_307
+    21300616: wea-bobs1_308
+    21300618: wea-bobs1_309
+    21300620: wea-bobs1_310
+    21300622: wea-bobs1_311
+    21300624: wea-bobs1_312
+    21300626: wea-bobs1_313
+    21300628: wea-bobs1_314
+    21300630: wea-bobs1_315
+    21300632: wea-bobs1_316
+    21300634: wea-bobs1_317
+    21300636: wea-bobs1_318
+    21300638: wea-bobs1_319
+    21300640: wea-bobs1_320
+    21300642: wea-bobs1_321
+    21300644: wea-bobs1_322
+    21300646: wea-bobs1_323
+    21300648: wea-bobs1_324
+    21300650: wea-bobs1_325
+    21300652: wea-bobs1_326
+    21300654: wea-bobs1_327
+    21300656: wea-bobs1_328
+    21300658: wea-bobs1_329
+    21300660: wea-bobs1_330
+    21300662: wea-bobs1_331
+    21300664: wea-bobs1_332
+    21300666: wea-bobs1_333
+    21300668: wea-bobs1_334
+    21300670: wea-bobs1_335
+    21300672: wea-bobs1_336
+    21300674: wea-bobs1_337
+    21300676: wea-bobs1_338
+    21300678: wea-bobs1_339
+    21300680: wea-bobs1_340
+    21300682: wea-bobs1_341
+    21300684: wea-bobs1_342
+    21300686: wea-bobs1_343
+    21300688: wea-bobs1_344
+    21300690: wea-bobs1_345
+    21300692: wea-bobs1_346
+    21300694: wea-bobs1_347
+    21300696: wea-bobs1_348
+    21300698: wea-bobs1_349
+    21300700: wea-bobs1_350
+    21300702: wea-bobs1_351
+    21300704: wea-bobs1_352
+    21300706: wea-bobs1_353
+    21300708: wea-bobs1_354
+    21300710: wea-bobs1_355
+    21300712: wea-bobs1_356
+    21300714: wea-bobs1_357
+    21300716: wea-bobs1_358
+    21300718: wea-bobs1_359
+    21300720: wea-bobs1_360
+    21300722: wea-bobs1_361
+    21300724: wea-bobs1_362
+    21300726: wea-bobs1_363
+    21300728: wea-bobs1_364
+    21300730: wea-bobs1_365
+    21300732: wea-bobs1_366
+    21300734: wea-bobs1_367
+    21300736: wea-bobs1_368
+    21300738: wea-bobs1_369
+    21300740: wea-bobs1_370
+    21300742: wea-bobs1_371
+    21300744: wea-bobs1_372
+    21300746: wea-bobs1_373
+    21300748: wea-bobs1_374
+    21300750: wea-bobs1_375
+    21300752: wea-bobs1_376
+    21300754: wea-bobs1_377
+    21300756: wea-bobs1_378
+    21300758: wea-bobs1_379
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wea-bobs1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_99
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_148
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_149
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_151
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_163
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_164
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_165
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_169
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_170
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_173
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_176
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_178
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_179
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_182
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_184
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_185
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_186
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_187
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_188
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_189
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_191
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_192
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_193
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_195
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_197
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_198
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_199
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_201
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_202
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_203
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_204
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_205
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_206
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_207
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_208
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_210
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_211
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_212
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_214
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_215
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_216
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_218
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_219
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_220
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_221
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_222
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_224
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_226
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_227
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_229
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_230
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_231
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_232
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_233
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_234
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_235
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_236
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_237
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_238
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_239
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_241
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_242
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_245
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_246
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_248
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_250
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_251
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_252
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_253
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_254
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_255
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_256
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_257
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_258
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_259
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_260
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_261
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_263
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_264
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_265
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_267
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_268
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_269
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_270
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_271
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_272
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_273
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_274
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_275
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_276
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_277
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_278
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_279
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_280
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_281
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_282
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_283
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_284
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_286
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_287
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_288
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_289
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_290
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_292
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_293
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_294
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_295
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_296
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_297
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_298
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_299
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_300
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_301
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_302
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_303
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_304
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_305
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_306
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_307
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_308
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_309
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_310
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_311
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_312
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_313
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_314
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_315
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_316
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_317
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_318
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_319
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_320
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_321
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_322
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_323
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_324
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_325
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_326
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_327
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_328
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_329
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_330
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_331
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_332
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_333
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_334
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_335
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_336
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_337
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_338
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_339
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_340
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_341
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_342
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_343
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_344
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_345
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_346
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_347
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_348
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_349
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_350
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_351
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_352
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_353
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_354
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_355
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_356
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_357
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_358
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_359
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_360
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16.95
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_361
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_362
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_363
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_364
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_365
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_366
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_367
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_368
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_369
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_370
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_371
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_372
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_373
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_374
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_375
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_376
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_377
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_378
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wea-bobs1_379
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.95000076
+        width: 16.789474
+        height: 16.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

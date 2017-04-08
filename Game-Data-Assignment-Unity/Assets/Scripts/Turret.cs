@@ -1,30 +1,30 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class Turret : MonoBehaviour {
 
-
-
     public GameObject bulletPrefab;
     public GameObject player;
-
     public GameObject barrel;
 
     public float firingThreshold;
-
     public float angleToPlayer;
-
     public float firingDelay;
-
     float lastShotTime;
 
-    // Use this for initialization
     void Start() {
+        GetTank();
+    }
+
+    void GetTank() {
         player = GameObject.Find("Tank");
     }
 
-    // Update is called once per frame
     void Update() {
+        if (player == null) {
+            GetTank();
+            return;
+        }
+
         if (Vector3.Distance(transform.position, player.transform.position) < firingThreshold) {
             RotateBarrel();
             Fire();
